@@ -9,15 +9,19 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
+		"BracketHighlighter",
+		"Comment-Snippets",
 		"Emmet",
+		"Emoji",
 		"ERB Snippets",
 		"Git",
+		"JsPrettier",
 		"Latest Migration",
 		"MagicPython",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
-		"SublimeLinter-rubocop",
-		"BracketHighlighter"
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop"
 	]
 }
